@@ -5,6 +5,6 @@ A project from `15 Vanilla JS projects course` from **John Smilga**.
 1. Simple: Simple Color Flipper with limited color options.
 2. Hex: Will generate random Hex colors.
 
->Demo Link: [Color Flipper]()
+>Demo Link: [Color Flipper](https://color-flipper-gray.vercel.app/)
 
 
